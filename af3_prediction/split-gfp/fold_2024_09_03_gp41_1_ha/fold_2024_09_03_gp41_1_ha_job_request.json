@@ -1,0 +1,21 @@
+[{
+ "name": "2024-09-03_GP41-1_HA",
+ "modelSeeds": [
+  "465377752"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "CLDLKTQVQTPQGMKEISNIQVGDLVLSNTGYNEVLNVFPKSKKKSYKITLEDGKEIICSEEHLFPTQTGEMNISGGLKEGMCLYVKTACCCATACGATGTTCCAGATTACGCT",
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "MLKKILKIEELDERELIDIEVSGNHLFYANDILTHN",
+    "count": 1
+   }
+  }
+ ]
+}
+]
